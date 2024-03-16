@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">Launcher 2075</string>
+    <string name="title_activity_main">Quick Launch Screen</string>
+    <string name="title_activity_main2">App List</string>
 </resources>
